@@ -1,0 +1,20 @@
+{
+  "name": "test-npm-publisher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npx tsx scripts/release.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staaldraad/test-npm-publish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staaldraad/test-npm-publish/issues"
+  },
+  "homepage": "https://github.com/staaldraad/test-npm-publish#readme",
+  "description": ""
+}
