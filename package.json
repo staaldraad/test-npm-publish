@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "npx tsx scripts/release.ts"
+    "publisher": "npx tsx scripts/release.ts"
   },
   "repository": {
     "type": "git",
