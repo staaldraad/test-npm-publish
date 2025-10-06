@@ -16,5 +16,8 @@
     "url": "https://github.com/staaldraad/test-npm-publish/issues"
   },
   "homepage": "https://github.com/staaldraad/test-npm-publish#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "tsx": "^4.20.6"
+  }
 }
